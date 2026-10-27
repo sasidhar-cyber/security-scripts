@@ -1,0 +1,5 @@
+reports/*.xml
+reports/*.json
+reports/assessment.md
+__pycache__/
+*.py[cod]
